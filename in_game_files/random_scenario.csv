@@ -1,0 +1,31 @@
+difficulty,event,scoreIncrease
+Beginner,You found $5 on the ground. Pick it up?,5
+Beginner,You bought a snack for $3. Do you confirm the purchase?,-3
+Beginner,You earned $8 for helping a neighbor. Accept?,8
+Beginner,You spent $2 on a candy. Confirm?,-2
+Beginner,You received $4 as a gift. Accept?,4
+Beginner,You paid $1 to buy a sticker. Confirm?,-1
+Beginner,You donated $2 to charity. Proceed?,-2
+Beginner,You won $5 in a small lottery. Collect?,5
+Beginner,You found $7 in an old toy box. Collect?,7
+Beginner,You bought a toy for $6. Confirm?,-6
+Intermediate,You earned $10 for helping with chores. Accept?,10
+Intermediate,You donated $7 to charity. Proceed?,-7
+Intermediate,You found $12 in an old jacket. Collect?,12
+Intermediate,You spent $5 on a new game. Confirm?,-5
+Intermediate,You received $15 as a birthday gift. Accept?,15
+Intermediate,You paid $3 to join a club. Confirm?,-3
+Intermediate,You bought snacks for $4. Confirm?,-4
+Intermediate,You invested $20 in a small stock. Confirm?,-20
+Intermediate,You earned $10 from selling old books. Accept?,10
+Intermediate,You received $8 for babysitting. Accept?,8
+Advanced,You won a raffle prize of $20! Collect?,20
+Advanced,"Your bike broke down, costing $15 to fix. Do you want to fix it?",-15
+Advanced,You found $25 under your bed. Pick it up?,25
+Advanced,You spent $10 on a concert ticket. Confirm?,-10
+Advanced,You received $30 as a bonus. Accept?,30
+Advanced,You donated $20 to a good cause. Proceed?,-20
+Advanced,You invested $50 in a mutual fund. Confirm?,-50
+Advanced,You earned $35 from a side job. Accept?,35
+Advanced,You spent $25 on a book collection. Confirm?,-25
+Advanced,You found $40 in a pocket of an old coat. Collect?,40

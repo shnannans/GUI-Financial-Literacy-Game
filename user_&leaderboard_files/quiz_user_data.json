@@ -1,0 +1,107 @@
+{
+    "tristan": {
+        "highest_game_points": {
+            "Beginner": 6667,
+            "Advanced": 8301
+        },
+        "inventory": [
+            "Wizard's Hat \ud83e\ude84"
+        ],
+        "equipped_items": {
+            "hat": "Wizard's Hat \ud83e\ude84",
+            "accessory": null,
+            "outfit": null,
+            "shoes": null
+        },
+        "money": 198,
+        "game_points": 8301,
+        "last_played": "11/10/2024 15:53"
+    },
+    "sammywich": {
+        "highest_game_points": {
+            "Master": 8317,
+            "Advanced": 8317,
+            "Beginner": 8317
+        },
+        "inventory": [
+            "Sun Visor \ud83e\udde2",
+            "Ranger Outfit \ud83c\udff9",
+            "Wizard's Hat \ud83e\ude84",
+            "Stealth Hood \ud83d\udd76\ufe0f"
+        ],
+        "equipped_items": {
+            "hat": "Wizard's Hat \ud83e\ude84",
+            "accessory": null,
+            "outfit": null,
+            "shoes": null
+        },
+        "money": 71,
+        "game_points": 8317,
+        "last_played": "11/10/2024 14:45"
+    },
+    "john": {
+        "highest_game_points": {
+            "Intermediate": 2850
+        },
+        "inventory": [],
+        "equipped_items": {
+            "hat": null,
+            "accessory": null,
+            "outfit": null,
+            "shoes": null
+        },
+        "money": -15,
+        "game_points": 2850,
+        "last_played": "11/10/2024 12:30"
+    },
+    "jamie": {
+        "highest_game_points": {
+            "Intermediate": 3800
+        },
+        "inventory": [],
+        "equipped_items": {
+            "hat": null,
+            "accessory": null,
+            "outfit": null,
+            "shoes": null
+        },
+        "money": 28,
+        "game_points": 3800,
+        "last_played": "11/10/2024 12:31"
+    },
+    "jack": {
+        "highest_game_points": {
+            "Beginner": 1583
+        },
+        "inventory": [],
+        "equipped_items": {
+            "hat": null,
+            "accessory": null,
+            "outfit": null,
+            "shoes": null
+        },
+        "money": -11,
+        "game_points": 1583,
+        "last_played": "11/10/2024 13:25"
+    },
+    "bread": {
+        "highest_game_points": {
+            "Beginner": 8733
+        },
+        "inventory": [
+            "Wizard's Hat \ud83e\ude84",
+            "Sun Visor \ud83e\udde2",
+            "Lucky Bracelet \ud83c\udf40",
+            "Speed Band \ud83c\udfc3"
+        ],
+        "equipped_items": {
+            "hat": "Wizard's Hat \ud83e\ude84",
+            "accessory": "Speed Band \ud83c\udfc3",
+            "outfit": null,
+            "shoes": null
+        },
+        "money": 80,
+        "game_points": 6684,
+        "last_played": "11/10/2024 15:46"
+    }
+}
